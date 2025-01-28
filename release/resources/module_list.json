@@ -31,7 +31,7 @@
         },
         {
             "name": "module-ballerina-data.xmldata",
-            "version_key": "stdlibDataXmldataVersion"
+            "version_key": "stdlibDataXmlDataVersion"
         },
         {
             "name": "module-ballerina-data.yaml",
